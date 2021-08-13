@@ -17,11 +17,6 @@ I'm an experienced Applications Developer.
 
 
 
-## &#x1f4c8; GitHub Stats
-
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptillium&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
-
-
 
 <!--
 **cryptillium/cryptillium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
