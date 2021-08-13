@@ -10,6 +10,15 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
+
+
+## &#x1f4c8; GitHub Stats
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptillium&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
+
+
+
 <!--
 **cryptillium/cryptillium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
