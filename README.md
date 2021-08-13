@@ -1,22 +1,6 @@
-**Currently I am working ...**
+I'm an experienced Applications Developer.
 
-- <div>
-    
-    ... as a <strong>ServiceNow Developer</strong> 
-    <br />
-    
-    <br /> 
-    <br /> 
-  </div>
-  
-- <div>
-    <img width="250" height="100" align='right' src="" style="margin-left: -10px" >
-    ... as a <strong>Technical Content Writer</strong> at Geeks for Geeks where I have penned down forty plus detailed and comprehensive articles covering various web technologies and Data Structures & Algorithms concepts.
-    <br />
-    <strong>View: </strong> <a href="https://auth.geeksforgeeks.org/user/verma_anushka/articles" >Geeks for Geeks</a> 
-    <br /> 
-  </div> 
-
+ ---
 
 ### Languages
 
