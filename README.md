@@ -16,10 +16,21 @@ I'm an experienced Applications Developer.
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 
-<script>
-alert(222)
-</script>
-
+## This is my-el
+ 
+<my-el></my-el>
+ 
+```js script
+import { LitElement, html } from 'https://unpkg.com/lit-element?module';
+ 
+class MyEl extends LitElement {
+  render() {
+    this.innerHTML = '<p style="color: red">I am alive</p>';
+  }
+}
+ 
+customElements.define('my-el', MyEl);
+```
 <!--
 **cryptillium/cryptillium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
