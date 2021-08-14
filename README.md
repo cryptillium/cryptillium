@@ -16,20 +16,42 @@ I'm an experienced Applications Developer.
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 
-## This is my-el
- 
-<my-el></my-el>
- 
 ```js script
-import { LitElement, html } from 'https://unpkg.com/lit-element?module';
- 
-class MyEl extends LitElement {
-  render() {
-    this.innerHTML = '<p style="color: red">I am alive</p>';
-  }
-}
- 
-customElements.define('my-el', MyEl);
+import "./my-card.js";
+import { html } from "lit-html";
+```
+
+<my-card header="from attribute"></my-card>
+
+## Show it with properties
+
+Rendering via a template function with lit-html allows to use for example properties.
+
+```js story
+const headlineText = "Headline Text";
+export const myCard = () => html`
+  <my-card .header=${headlineText}>Main content text</my-card>
+`;
+```
+
+## Show it within a frame
+
+Show it within a frame and
+
+```js preview-story
+export const cardWithFrame = () => html`
+  <my-card .header=${"My Headline Nr: " + 2 * 2}>Main content text</my-card>
+`;
+```
+
+## Have a component with a fixed headlineText
+
+You can provide a header as a property or attribute.
+
+```js preview-story
+export const myFixedCard = () => html`
+  <my-card header="Fixed Header">Main content text</my-card>
+`;
 ```
 <!--
 **cryptillium/cryptillium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
