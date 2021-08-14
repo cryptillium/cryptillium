@@ -48,6 +48,8 @@ export const cardWithFrame = () => html`
 
 You can provide a header as a property or attribute.
 
+still checking things out
+
 ```js preview-story
 export const myFixedCard = () => html`
   <my-card header="Fixed Header">Main content text</my-card>
